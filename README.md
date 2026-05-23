@@ -10,7 +10,7 @@
     <a href="https://github.com/wallpapers-engine/Wallpaper-Engine/issues">Report Bug</a> | <a href="https://github.com/wallpapers-engine/Wallpaper-Engine/issues">Discussions</a>
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/App-Wallpaper%20Engine-FF69B4?style=for-the-badge" alt="Wallpaper Engine" />
+    <img src="https://img.shields.io/badge/App-Wallpaper%20Engine-42AAFF?style=for-the-badge" alt="Wallpaper Engine" />
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D7?style=for-the-badge" alt="Platform" />
     <br>
     <img src="https://img.shields.io/github/stars/wallpapers-engine/Wallpaper-Engine?style=flat-square&color=gold" alt="Stars" />
